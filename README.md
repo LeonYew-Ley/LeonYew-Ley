@@ -2,11 +2,20 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slackey&size=36&duration=2500&pause=500&color=1F4F9B&background=FFFA187A&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Hi%2C+I'm+LeonYew+%F0%9F%91%8B;A+Game+Developer;Let's+keep+making+more+fun!" alt="Typing SVG" /></a>
 
-**Game Dev Learner / Full Stack / Psychology / Philosophy**
+**🎮 Game Dev Learner / 🎨 Full Stack / 💚 Psychology / 🧠 Philosophy**
 
-<a href="https://leonyew.space" target="_blank"><img src="https://img.shields.io/badge/Blog-leonyew.space-0aa8d2?logo=google-chrome&logoColor=white" /></a>
-<a href="https://space.bilibili.com/8403927" target="_blank"><img src="https://img.shields.io/badge/Bilibili-LeonYew?logo=bilibili&logoColor=white" /></a>
-<a href="https://github.com/LeonYew-Ley?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/All%20Repos-Explorer-6e40c9?logo=github" /></a>
+<!-- Social badges (for-the-badge style) -->
+<p align="center">
+	<a href="https://leonyew.space" target="_blank">
+		<img alt="blog" title="Visit my Blog" src="https://img.shields.io/badge/Blog-leonyew.space-0aa8d2?logo=google-chrome&logoColor=white&style=for-the-badge" />
+	</a>
+	<a href="https://space.bilibili.com/8403927" target="_blank">
+		<img alt="bilibili" title="Bilibili" src="https://img.shields.io/badge/Bilibili-LeonYew-ff88c2?logo=bilibili&logoColor=white&style=for-the-badge" />
+	</a>
+	<a href="https://github.com/LeonYew-Ley?tab=repositories" target="_blank">
+		<img alt="all repos" title="All repositories" src="https://img.shields.io/badge/Repos-Explorer-6e40c9?logo=github&logoColor=white&style=for-the-badge" />
+	</a>
+</p>
 
 <br/>
 </div>
@@ -15,8 +24,8 @@
 
 ### 🧭 快速导航 / Quick Links
 
-- 🌐 个人主页 / Blog: **https://leonyew.space** （笔记 & 知识库）
-- 🎮 主要方向: Unity Gameplay / Tools, 各种自动化脚本工具（batch、python、飞书机器人）
+- 个人主页 / Blog: **https://leonyew.space** （笔记 & 知识库）
+- 主要方向: Unity Gameplay / Tools, 各种自动化脚本工具（batch、python、飞书机器人）
 
 ---
 
@@ -59,13 +68,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonYew-Ley&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonYew-Ley&custom_title=LeonYew's Recent&theme=minimal&area=true&hide_border=true" alt="activity graph" />
 
-<!-- 若想加入 SVG 贪吃蛇动画：
-1. 在 .github/workflows 下添加 workflow (参考 Platane/snk)。
-2. 生成 output 分支后加入：
-![snake](https://raw.githubusercontent.com/LeonYew-Ley/LeonYew-Ley/output/github-contribution-grid-snake.svg)
--->
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonYew-Ley/LeonYew-Ley/output/github-contribution-grid-snake-dark.svg" />
+	<img alt="github contribution snake" src="https://raw.githubusercontent.com/LeonYew-Ley/LeonYew-Ley/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- Snake animation 由 GitHub Actions (Platane/snk) 自动生成 -->
 
 </div>
 
@@ -81,11 +91,13 @@
 
 ### 📞 联系 / Contact
 
-| 渠道     | Link                               |
-| -------- | ---------------------------------- |
-| Blog     | https://leonyew.space              |
-| Bilibili | https://space.bilibili.com/8403927 |
-| Issues   | 欢迎在本仓库提 Issue 交流          |
+<div align="center">
+
+<a href="https://leonyew.space" target="_blank"><img src="https://img.shields.io/badge/Blog-leonyew.space-0aa8d2?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Blog" /></a>
+<a href="https://space.bilibili.com/8403927" target="_blank"><img src="https://img.shields.io/badge/Bilibili-LeonYew-ff88c2?logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili" /></a>
+<a href="https://github.com/LeonYew-Ley/LeonYew-Ley/issues" target="_blank"><img src="https://img.shields.io/badge/Issues-Feedback-6e40c9?logo=github&logoColor=white&style=for-the-badge" alt="Issues" /></a>
+
+</div>
 
 ---
 
