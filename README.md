@@ -5,19 +5,9 @@
 **🎮 Game Dev Learner / 🎨 Full Stack / 💚 Psychology / 🧠 Philosophy**
 
 <!-- Social badges (for-the-badge style) -->
-<p align="center">
-	<a href="https://leonyew.space" target="_blank">
-		<img alt="blog" title="Visit my Blog" src="https://img.shields.io/badge/Blog-leonyew.space-0aa8d2?logo=google-chrome&logoColor=white&style=for-the-badge" />
-	</a>
-	<a href="https://space.bilibili.com/8403927" target="_blank">
-		<img alt="bilibili" title="Bilibili" src="https://img.shields.io/badge/Bilibili-LeonYew-ff88c2?logo=bilibili&logoColor=white&style=for-the-badge" />
-	</a>
-	<a href="https://github.com/LeonYew-Ley?tab=repositories" target="_blank">
-		<img alt="all repos" title="All repositories" src="https://img.shields.io/badge/Repos-Explorer-6e40c9?logo=github&logoColor=white&style=for-the-badge" />
-	</a>
-</p>
-
-<br/>
+<a href="https://leonyew.space" target="_blank"><img alt="blog" title="Visit my Blog" src="https://img.shields.io/badge/Blog-leonyew.space-0aa8d2?logo=google-chrome&logoColor=white&style=for-the-badge" /></a>
+<a href="https://space.bilibili.com/8403927" target="_blank"><img alt="bilibili" title="Bilibili" src="https://img.shields.io/badge/Bilibili-LeonYew-ff88c2?logo=bilibili&logoColor=white&style=for-the-badge" /></a>
+<a href="https://github.com/LeonYew-Ley?tab=repositories" target="_blank"><img alt="all repos" title="All repositories" src="https://img.shields.io/badge/Repos-Explorer-6e40c9?logo=github&logoColor=white&style=for-the-badge" /></a>
 </div>
 
 ---
@@ -102,10 +92,8 @@
 ---
 
 <div align="center">
-
+<br/>
 “Stay Hungry, Stay Foolish.”
-
-⭐ 如果这些项目对你有帮助，欢迎点个 Star。
 
 </div>
 
