@@ -69,16 +69,11 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonYew-Ley&custom_title=LeonYew%27s%20Recent&theme=minimal&area=true&hide_border=true" alt="activity graph" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
-<!-- <picture>
+<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonYew-Ley/LeonYew-Ley/output/github-contribution-grid-snake-dark.svg" />
 	<img alt="github contribution snake" src="https://raw.githubusercontent.com/LeonYew-Ley/LeonYew-Ley/output/github-contribution-grid-snake.svg" />
-</picture> -->
+</picture>
 
 <!-- Snake animation 由 GitHub Actions (Platane/snk) 自动生成 -->
 
