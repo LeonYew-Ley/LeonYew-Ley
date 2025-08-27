@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonYew-Ley&custom_title=LeonYew%27s%20Recent&theme=minimal&area=true&hide_border=true" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonYew-Ley&custom_title=LeonYew%27s%20Recent&theme=github-compact&area=true&hide_border=true" alt="activity graph" />
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonYew-Ley/LeonYew-Ley/output/github-contribution-grid-snake-dark.svg" />
